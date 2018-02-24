@@ -1,5 +1,9 @@
 <html>
   <head>
+    <style>
+     div { color: grey
+            background-color: blue;}
+    </style>
     <title>
       Jitterbug Greatness
     </title>
