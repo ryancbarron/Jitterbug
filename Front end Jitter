@@ -1,8 +1,8 @@
 <html>
   <head>
     <style>
-     p { color:grey;
-            background-color:blue;}
+     p { color:blue;
+            background-color:yellow;}
     </style>
     <title>
       Jitterbug Greatness
@@ -10,7 +10,7 @@
   </head>
   <body>
     <div>
-      <p> WHOA!</p>
+      <p class="serif"> WHOA!</p>
     </div>
   </body>
 </html>
