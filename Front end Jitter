@@ -1,8 +1,8 @@
 <html>
   <head>
     <style>
-     p { color: grey
-            background-color: blue;}
+     p { color:grey;
+            background-color:blue;}
     </style>
     <title>
       Jitterbug Greatness
