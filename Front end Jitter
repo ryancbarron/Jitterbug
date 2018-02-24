@@ -1,7 +1,7 @@
 <html>
   <head>
     <style>
-     div { color: grey
+     p { color: grey
             background-color: blue;}
     </style>
     <title>
@@ -10,7 +10,7 @@
   </head>
   <body>
     <div>
-      WHOA!
+      <p> WHOA!</p>
     </div>
   </body>
 </html>
